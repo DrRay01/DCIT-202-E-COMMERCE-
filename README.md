@@ -1,4 +1,4 @@
-# React Native Assignment 1 - 10715959
+#React Native Assignment - 10840913
 
 ## Reference
 
@@ -10,12 +10,6 @@
 
 # Login
 
-![Login Screen](assets/login.PNG)
-
 # Shop
 
-![Shop Screen](assets/shop.PNG)
-
 # Cart
-
-![Cart Screen](assets/cart.PNG)
